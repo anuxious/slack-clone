@@ -3,13 +3,12 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyC1AOI-TzBw_0xF5vZpJ4QbTTfL_LJNeAA',
-  authDomain: 'slacky-d1604.firebaseapp.com',
-  databaseURL: 'https://slacky-d1604.firebaseio.com',
-  projectId: 'slacky-d1604',
-  storageBucket: 'slacky-d1604.appspot.com',
-  messagingSenderId: '198405935145',
-  appId: '1:198405935145:web:d9b9129b65a17947e08c38',
+  apiKey: "AIzaSyBDoABe0McllMdYVk0r9MwiXfvpAfQfL50",
+  authDomain: "studentract.firebaseapp.com",
+  projectId: "studentract",
+  storageBucket: "studentract.appspot.com",
+  messagingSenderId: "603381324598",
+  appId: "1:603381324598:web:95f64178b72e47a1713197"
 };
 
 // Initialize Firebase
